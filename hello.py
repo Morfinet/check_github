@@ -1,2 +1,2 @@
 def hello():
-	print('hello gitlab')
+	print('hello github')
